@@ -1,0 +1,35 @@
+my name is vaibhav
+
+this code belong to login page 
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Login Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+        }
+        .login-container {
+            width: 300px;
+            padding: 20px;
+            margin: 100px auto;
+            background-color: white;
+            box-shadow: 0px 0px 10px 0px #aaa;
+            border-radius: 8px;
+        }
+        .login-container h2 {
+            text-align: center;
+        }
+        input[type="text"], input[type="password"] {
+            width: 100%;
+            padding: 10px;
+            margin: 8px 0;
+            box-sizing: border-box;
+        }
+        button {
+            width: 100%;
+            padding: 10px;
+            background-color: #4CAF50;
+
