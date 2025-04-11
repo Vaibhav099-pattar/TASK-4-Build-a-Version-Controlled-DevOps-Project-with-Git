@@ -47,8 +47,14 @@ git config --global alias.st status
 git remote add origin <url>
 **Push to GitHub**
 git push -u origin master
-
-
+git push – Upload Local Changes to Remote
+**First-Time Push with Branch Tracking**
+git push -u origin <branch-name>
+ **Fetch and Merge from Remote**
+ git pull
+git fetch
+git merge origin/<your-branch>
+git pull --rebase
 
 
 
